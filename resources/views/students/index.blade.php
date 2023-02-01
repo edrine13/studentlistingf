@@ -18,8 +18,8 @@
              focus:border-sky-500 focus:ring-2 focus:ring-sky-500" name="q" value="{{ $q }}" placeholder="Search here...">
          </div>
          <div class="col">
-            <button class="btn btn-success">Search</button>
-            <a href="http://127.0.0.1:8000/" class="btn btn-primary">Reset</a>
+            <button class="btn btn-success w-32">Search</button>
+            <a href="http://127.0.0.1:8000/" class="btn btn-primary w-32">Reset</a>
          </div>
      </form>
       <table class="w-100 mx-auto text-sm text-left text-gray-500">
